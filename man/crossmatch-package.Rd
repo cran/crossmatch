@@ -33,10 +33,6 @@ Society, B, 67, 515-530.
 %~~ the R documentation directory ~~
 \keyword{ nonparametric}
 \keyword{multivariate}
-\seealso{
-%~~ Optional links to other man pages, e.g. ~~
-%~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
-}
 \examples{
 #The example in Section 2 of Rosenbaum P. (2005), An exact distribution-free test comparing two multivariate distributions based on adjacency, JRSS B, 67, pp 515-530.
 

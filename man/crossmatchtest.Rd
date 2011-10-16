@@ -38,15 +38,7 @@ Society, B, 67, 515-530.
 \author{
 Ruth Heller 
 }
-\note{
-%%  ~~further notes~~
-}
 
-%% ~Make other sections like Warning with \section{Warning }{....} ~
-
-\seealso{
-%% ~~objects to See Also as \code{\link{help}}, ~~~
-}
 \examples{
 #The example in Section 2 of Rosenbaum P. (2005), An exact distribution-free test comparing two multivariate distributions based on adjacency, JRSS B, 67, pp 515-530.
 

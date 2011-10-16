@@ -13,7 +13,7 @@ nzero<-sum(mdm==0) - length(diag(mdm))
 if (nzero/((dim(mdm)[1])^2-dim(mdm)[1])>.95){warning("Your distance matrix has some very large relative distances such that more than 95 percent of distances were rounded to zero")}
 res<-nonbimatch(mdm)
 
-        mt<-pmin(as.numeric(res$matches$Xrow),as.numeric(res$matches$Yrow))
+        mt<-pmin(as.numeric(res$matches$Group1.Row),as.numeric(res$matches$Group2.Row))
 if (length(z)<length(mt)){ #if the number of observations is odd remove observation that paired with ghost
 	mt[mt==mt[length(mt)]]=0
 	mt = mt[1:(length(mt)-1)]

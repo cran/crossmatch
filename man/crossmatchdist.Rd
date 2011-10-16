@@ -37,15 +37,7 @@ Society, B, 67, 515-530.
 \author{
 Ruth Heller
 }
-\note{
-%%  ~~further notes~~
-}
 
-%% ~Make other sections like Warning with \section{Warning }{....} ~
-
-\seealso{
-%% ~~objects to See Also as \code{\link{help}}, ~~~
-}
 \examples{
 crossmatchdist(18,9)
 }
