@@ -1,8 +1,8 @@
 Package: crossmatch
 Type: Package
-Title: The cross-match test
-Version: 1.1
-Date: 2011-10-16
+Title: The Cross-match Test
+Version: 1.3-1
+Date: 2012-06-16
 Author: Ruth Heller <ruheller@post.tau.ac.il>, Dylan Small
         <dsmall@wharton.upenn.edu>, Paul Rosenbaum
         <rosenbap@wharton.upenn.edu>
@@ -12,9 +12,10 @@ Description: This package performs a test for comparing two
         observations.  The input is a distance matrix and the labels of
         the two groups to be compared, the output is the number of
         cross-matches and a p-value.
-Depends: nbpMatching
+Depends: survival,nbpMatching
+Suggests: MASS
 License: GPL-2
 LazyLoad: yes
-Packaged: 2011-10-16 10:32:15 UTC; user
+Packaged: 2012-06-16 08:18:45 UTC; Shay
 Repository: CRAN
-Date/Publication: 2011-10-17 05:54:53
+Date/Publication: 2012-06-17 00:13:00

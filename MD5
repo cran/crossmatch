@@ -1,6 +1,7 @@
-d3a144004fd7bcbc8b770e0e249fd712 *DESCRIPTION
-6deee47966c6f93962d3c5b7a6067ad0 *R/crossmatchdist.R
-08ce43d56ade4cf386280a782d105818 *R/crossmatchtest.R
-40ccc4bfc0714c4d529a9b500be8355a *man/crossmatch-package.Rd
-c0f68c43c9b3a99984fb019c22de070f *man/crossmatchdist.Rd
-f58a31137d4f8862d6e979afe32cbfdc *man/crossmatchtest.Rd
+c830320a0233a86dcfbf720de6330e8f *DESCRIPTION
+5a96d44768dccfc0f7a561f185dbff13 *NAMESPACE
+7fa2c61880e26d44f985f0f64d1e9026 *R/crossmatchdist.R
+c1d7a290f1d58e04a32dcaea76c4c547 *R/crossmatchtest.R
+9a270f3c2aaf6d1c52def1f4abc76be3 *man/crossmatch-package.Rd
+cc603be870cc4440efb47924cb729a3c *man/crossmatchdist.Rd
+316472c74dc5417e43b59bbb013affc8 *man/crossmatchtest.Rd
